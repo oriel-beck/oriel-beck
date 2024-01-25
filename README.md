@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [portolio-oriel.vercel.app](portolio-oriel.vercel.app)
 
-- 📫 How to reach me **orielbeck@gmail.com**
+- 📫 You can reach me at **orielbeck@gmail.com**
 
 <a href="https://linkedin.com/in/oriel-beck" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="oriel-beck" />
