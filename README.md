@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oriel Beck</h1>
 <h3 align="center">A passionate Full Stack developer from Israel</h3>
 
-- 👨‍💻 All of my projects are available at [portolio-oriel.vercel.app](https://portfolio-oriel.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio-oriel.vercel.app
 
 - 📫 You can reach me at **orielbeck@gmail.com**
 
